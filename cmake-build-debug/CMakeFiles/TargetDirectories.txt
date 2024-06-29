@@ -1,0 +1,3 @@
+C:/Users/Rodrigo/CLionProjects/trabAEDIIpratico2BTreefinalizado/cmake-build-debug/CMakeFiles/trabAEDIIpratico2BTree.dir
+C:/Users/Rodrigo/CLionProjects/trabAEDIIpratico2BTreefinalizado/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Rodrigo/CLionProjects/trabAEDIIpratico2BTreefinalizado/cmake-build-debug/CMakeFiles/rebuild_cache.dir
